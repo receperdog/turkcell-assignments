@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assignment02/assignment02.iml" filepath="$PROJECT_DIR$/assignment02/assignment02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment03/assignment03.iml" filepath="$PROJECT_DIR$/assignment03/assignment03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment04/assignment04.iml" filepath="$PROJECT_DIR$/assignment04/assignment04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment05/assignment05.iml" filepath="$PROJECT_DIR$/assignment05/assignment05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/turkcell-assignments.iml" filepath="$PROJECT_DIR$/.idea/turkcell-assignments.iml" />
+    </modules>
+  </component>
+</project>
