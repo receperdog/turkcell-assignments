@@ -6,12 +6,14 @@
 
 You can see the example below:
 
-| Assignment Name | Topic                |
-|-----------------|----------------------|
-| Assignment01    | Array List           |
-| Assignment02    | Array List & HashSet |
-| Assignment03    | Hash Map             |
-| Assignment04    | Inheritance          |
+| Assignment Name | Topic                                    |
+|-----------------|------------------------------------------|
+| Assignment01    | Array List                               |
+| Assignment02    | Array List & HashSet                     |
+| Assignment03    | Hash Map                                 |
+| Assignment04    | Inheritance                              |
+| Assignment05    | Polymorphism                             |
+| Assignment06    | Reading File with using the above topics |
 
 
 You can see the folder structure in below.
