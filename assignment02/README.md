@@ -1,4 +1,4 @@
-# Java Backend Bootcamp Assignment 1
+# Java Backend Bootcamp Assignment 2
 
 I have to get the string from the user(console) and then I have to print the numbers of characters of the string with the character in order.
 
