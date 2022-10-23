@@ -55,6 +55,28 @@ turkcell-assignments
 │       │   
 │       │   Main.java
 │       
+└───assignment05
+│   │
+│   └───src
+│       │   Character.java
+│       │   
+│       │   Warrior.java
+│       │   
+│       │   Weapon.java
+│       │   
+│       │   Wizard.java
+│       │   
+│       │   Main.java
+│       
+└───assignment06
+│   │
+│   └───src
+│       │   CustomReader.java
+│       │   
+│       │   deneme.txt
+│       │   
+│       │   Main.java
+│       
 └───exercisesDuringLesson01
 │   │
 │   └───src
