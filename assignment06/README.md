@@ -1,8 +1,9 @@
 # Java Backend Bootcamp Assignment 6
 
 **I implemented *Special File Reader* In this assignment, If you give a file 
-path text file to CustomReader class' constructor, You will see different 
-method that implemented by me. This methods have special function, you can 
+path of any text file to CustomReader class's constructor, You will see 
+different 
+methods that implemented by me. These methods have special function, you can 
 see examples below.**
 
 ## Example
