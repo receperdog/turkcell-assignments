@@ -12,6 +12,17 @@ public class Main {
         people.add(personTwo);
         System.out.println(people.size());
         System.out.println(personOne.equals(personTwo));
-
+        deneme deneme = new deneme();
     }
+}
+class deneme extends HashSet<a>{
+    public deneme(){
+        super();
+        System.out.println("deneme");
+    }
+
+
+}
+class a {
+
 }

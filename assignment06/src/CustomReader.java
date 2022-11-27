@@ -12,6 +12,7 @@ public class CustomReader {
 
     public CustomReader(String path) {
         try {
+            ArrayList<String> words = new ArrayList<>();
             this.path = path;
             this.fileReader = new FileReader(this.path);
             this.bufferedReader = new BufferedReader(fileReader);
